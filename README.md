@@ -1,5 +1,6 @@
 # computationalphysics_N2015301510089
-[x][Exercise_1:print name:](https://www.zybuluo.com/2015301510089/note/884447)
+[x][Exercise_1:print name:](http://note.youdao.com/noteshare?id=0079d446483b70089378e4b885df4e2c)
+【x】
 
 
 
