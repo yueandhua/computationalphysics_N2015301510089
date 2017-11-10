@@ -14,7 +14,7 @@
 
 [Exrecise_6:problem3.8](http://note.youdao.com/noteshare?id=5401f966597082df32fdc4775c12d4cd) 
 
-[Exrecise_6:problem3.26](http://note.youdao.com/noteshare?id=8a8de63a74369bc55d49fa8035683357)
+[Exrecise_7:problem3.26](http://note.youdao.com/noteshare?id=8a8de63a74369bc55d49fa8035683357)
 
 
 
