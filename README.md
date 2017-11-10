@@ -1,4 +1,4 @@
-5
+
 
 # computationalphysics_N2015301510089
 
@@ -13,6 +13,8 @@
 [Exrecise_5:problem2.19](http://note.youdao.com/noteshare?id=b81cac4f75832223c9bf6f11870a4f13)
 
 [Exrecise_6:problem3.8](http://note.youdao.com/noteshare?id=5401f966597082df32fdc4775c12d4cd) 
+
+[Exrecise_6:problem3.26](http://note.youdao.com/noteshare?id=8a8de63a74369bc55d49fa8035683357)
 
 
 
