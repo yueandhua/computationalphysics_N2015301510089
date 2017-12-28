@@ -12,4 +12,4 @@
 - [x] [Exrecise_9:pygame](https://raw.githubusercontent.com/yueandhua/myfirstownrepository/master/saoleicode)
 - [x] [Exrecise 10:problem 4.7](http://note.youdao.com/noteshare?id=b9a89b044bfbe7df6b2a9cc2df29a008)
 - [x] [Exrecise 11:problem 4.10](http://note.youdao.com/noteshare?id=dbaca26d9ecbd10072cbdad38d3a2365)
-- [] [Exrecise 12]
+- [x] [Exrecise 12:problem 5.3](http://note.youdao.com/noteshare?id=09094116ced7f0f999eae2e5a8473960)
