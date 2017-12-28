@@ -10,6 +10,6 @@
 - [x] [Exrecise_7:problem3.26](http://note.youdao.com/noteshare?id=8a8de63a74369bc55d49fa8035683357)
 - [x] [Exrecise_8:problem3.n](http://note.youdao.com/noteshare?id=60ac3455502f205b3472431d3c4afa53)
 - [x] [Exrecise_9:pygame](https://raw.githubusercontent.com/yueandhua/myfirstownrepository/master/saoleicode)
-- [] [Exrecise 10:problem 4.7](http://note.youdao.com/noteshare?id=b9a89b044bfbe7df6b2a9cc2df29a008)
+- [x] [Exrecise 10:problem 4.7](http://note.youdao.com/noteshare?id=b9a89b044bfbe7df6b2a9cc2df29a008)
 - [] [Exrecise 11:]
 - [] [Exrecise 12]
