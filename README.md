@@ -14,4 +14,4 @@
 - [x] [Exrecise 11:problem 4.10](http://note.youdao.com/noteshare?id=dbaca26d9ecbd10072cbdad38d3a2365)
 - [x] [Exrecise 12:problem 5.3](http://note.youdao.com/noteshare?id=09094116ced7f0f999eae2e5a8473960)
 - [x] [Exrecise 13:problem 6.n](http://note.youdao.com/noteshare?id=dc09d3b2bee57b25750b9f69245bf907)
-- [x] [finalexam](https://raw.githubusercontent.com/yueandhua/computationalphysics_N2015301510089/master/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E6%9C%9F%E6%9C%AB.pdf)
+- [x] [finalexam](https://github.com/yueandhua/computationalphysics_N2015301510089/blob/master/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E6%9C%9F%E6%9C%AB.pdf)
